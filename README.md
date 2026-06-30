@@ -1,16 +1,101 @@
-## Hi there 👋
+# Hi 👋 I'm Arun Jadhav
 
-<!--
-**Arunjadhav0101/Arunjadhav0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & DevOps Engineer from India 🇮🇳
 
-Here are some ideas to get you started:
+I enjoy building cloud infrastructure, automating deployments, and deploying scalable applications on AWS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- AWS
+- Docker
+- Kubernetes
+- Jenkins
+- Terraform
+- Linux
+- Git & GitHub
+- Nginx
+- Bash
+- Node.js
+- React
+
+---
+
+## ☁️ Cloud Skills
+
+✔ EC2
+
+✔ IAM
+
+✔ VPC
+
+✔ Route53
+
+✔ S3
+
+✔ ALB
+
+✔ Auto Scaling
+
+✔ CloudWatch
+
+✔ RDS
+
+✔ Lambda
+
+✔ API Gateway
+
+---
+
+## ⚙ DevOps Skills
+
+✔ Docker
+
+✔ Kubernetes
+
+✔ Jenkins
+
+✔ GitHub Actions
+
+✔ Terraform
+
+✔ CI/CD
+
+✔ Linux
+
+✔ Bash
+
+---
+
+## 📌 Featured Projects
+
+### AI Letter Generator
+- React
+- Node.js
+- AWS Deployment
+
+### Medicare Application
+- React
+- Express
+- MySQL
+- Docker
+- Kubernetes
+
+### Serverless Fitness Logger
+- AWS Lambda
+- API Gateway
+- DynamoDB
+
+### Cloud Native Image Compressor
+- AWS Lambda
+- S3
+- API Gateway
+
+---
+
+## 📫 Connect with me
+
+LinkedIn:
+your-linkedin
+
+Email:
+arunj5687@gmail.com
