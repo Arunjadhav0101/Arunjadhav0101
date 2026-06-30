@@ -15,8 +15,6 @@ I enjoy building cloud infrastructure, automating deployments, and deploying sca
 - Git & GitHub
 - Nginx
 - Bash
-- Node.js
-- React
 
 ---
 
